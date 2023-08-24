@@ -1,0 +1,28 @@
+Ejercicios con switch
+
+1-Que pida un número del 1 al 7 y diga el día de la semana correspondiente. 
+
+2-Que pida una letra y detecte si es una vocal.
+
+3- Genera un programa que evalue una calificacion Entera :
+      10 - Excelente
+      9 - Muy bien
+      8 - Bien 
+      7  - Suficiente 
+      6  - Reprobado
+      Otro Numero : Opc No valida.
+
+4-  Generar un programa que  calcule el area de          
+     Area de un Triangulo
+     Area de un Cuadrado
+     Area de un Rectangulo
+     Area de un Circulo. 
+
+5-  Realizar  un programa que presente al usuario un menú con las siguientes opciones:
+a) Sumar dos números: Solicitar al usuario dos números y sumarlos.
+b) Elevar un número al cubo: Solicitar al usuario un número y elevarlo al cubo. Imprimir el número en pantalla.
+c) Obtener un promedio: De tres Calificaciones dadas por el usuario 
+
+
+
+      

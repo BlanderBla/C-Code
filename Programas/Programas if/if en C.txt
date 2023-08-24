@@ -1,0 +1,35 @@
+***********************************************************************************
+Los principales simbolos de comparacion son:
+< menor a
+> mayor a
+!= no igual a
+== igual a
+>= mayor o igual a
+<= menor o igual a
+
+  if(condicion){
+     // instruccion
+   }else{
+      // instruccion 
+   }
+***********************************************************************************
+
+1-  Escriba un programa que muestre en pantalla la palabra Alto si el
+valor de la variable puntuacion es mayor que 100, y que muestre la palabra
+Bajo si el valor de la variable puntuacion es menor o igual que 100. La
+variable puntuacion es de tipo int. 
+
+2- Escriba un programa que muestre en pantalla la palabra Aprobado
+si el valor de la variable examen (variable de tipo int) es mayor o igual a
+70 y en caso contrario, el programa muestra en pantalla la palabra Reprobado. 
+
+3- Considere dos variables de tipo int llamadas temperatura y presion. Escriba
+una sentencia if-else que muestre en pantalla la palabra Alarma si la
+variable presion es mayor a 200 o si la variable temperatura es mayor a
+100. En caso contrario, se debe mostrar en pantalla la palabra Normal
+
+4-Genere  un programa que lea un importe bruto y calcule su importe neto, si es mayor de 15,000 se le aplicará un 16% 
+ de impuestos, en caso contrario se le aplicará un 10%.
+
+5-Diseñe un programa que, dado un número float que entra como dato, nos indique si está contenido dentro de los
+límites predeterminados. El límite inferior es de 100 y el superior de 200.
